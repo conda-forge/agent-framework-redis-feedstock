@@ -24,7 +24,7 @@ requirements:
     - flit-core <4.0,>=3.11
   run:
     - python >=${{ python_min }}
-    - agent-framework-core <2,>=1.4.0
+    - agent-framework-core <2,>=1.6.0
     - redis-py <7.2.1,>=6.4.0
     - redisvl <0.16,>=0.11.0
     - numpy <3,>=2.2.6
