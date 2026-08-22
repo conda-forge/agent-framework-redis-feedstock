@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0b260721"
+  version: "1.0.0b260821"
   python_min: "3.10"
 
 package:
@@ -10,7 +10,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agent-framework-redis/agent_framework_redis-${{ version }}.tar.gz
-  sha256: 50b02788c2828bb534dc35d0ef59b9efc3b9539e582aa8af5f9c22f72d9e472c
+  sha256: 96ec81578219a44aa576615a28fd4cb47e564c4016af4bd7329b5de9a4352c61
 
 build:
   noarch: python
